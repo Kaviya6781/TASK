@@ -1,5 +1,5 @@
 USER_ID = 150
-STATUS_CODE = 200
+STATUS_CODE = 404
 
 def check_status(code):
     return "Success" if code == 200 else "Failure"
