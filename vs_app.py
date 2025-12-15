@@ -1,4 +1,4 @@
-USER_ID = 100
+USER_ID = 150
 STATUS_CODE = 200
 
 def check_status(code):
