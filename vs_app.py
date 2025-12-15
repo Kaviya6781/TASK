@@ -1,7 +1,6 @@
 IS_FINAL_REPORT = True
 USER_ID = 150
 STATUS_CODE = 404
-MAX_RETRIES = 3
 def check_status(code):
     return "operation successful" if code == 201 else "connection failed"
 def print_completion():
